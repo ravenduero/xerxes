@@ -1,4 +1,4 @@
-# xerxes
+# Toxicpacket
 XERXES the most powerful DoS tool
 git clone https://github.com/NasurHaxor/xerxes/
 cd xerxes
