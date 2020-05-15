@@ -1,4 +1,4 @@
-/* XerXes - Most powerful dos tool - THN (http://www.thehackernews.com) */
+/* Toxicpacket - Toxicddospacket */
 
 #include <stdio.h>
 #include <stdlib.h>
